@@ -1,0 +1,34 @@
+{
+  "oof_roc_auc": 0.94783,
+  "oof_pr_auc": 0.51605,
+  "oof_logloss": 0.04523,
+  "threshold": 0.22834236141308392,
+  "threshold_precision": 0.5223,
+  "threshold_recall": 0.4875,
+  "precision_recall_by_threshold": {
+    "0.05": {
+      "precision": 0.2203,
+      "recall": 0.7371
+    },
+    "0.1": {
+      "precision": 0.3335,
+      "recall": 0.6332
+    },
+    "0.2": {
+      "precision": 0.4895,
+      "recall": 0.5112
+    },
+    "0.3": {
+      "precision": 0.5968,
+      "recall": 0.4287
+    },
+    "0.5": {
+      "precision": 0.7587,
+      "recall": 0.3158
+    }
+  },
+  "n_estimators": 2573,
+  "train_rows": 699960,
+  "test_rows": 299984,
+  "trained_at": "2026-11-14T12:25:39"
+}

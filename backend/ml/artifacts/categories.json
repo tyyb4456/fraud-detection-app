@@ -1,0 +1,47 @@
+{
+  "merchant_category": [
+    "Crypto Exchange",
+    "Electronics",
+    "Fuel",
+    "Gaming",
+    "Gift Cards",
+    "Groceries",
+    "Healthcare",
+    "Online Retail",
+    "Restaurants",
+    "Streaming",
+    "Travel",
+    "Utilities"
+  ],
+  "card_type": [
+    "Amex",
+    "Discover",
+    "Mastercard",
+    "RuPay",
+    "Visa"
+  ],
+  "auth_method": [
+    "3D Secure",
+    "Biometric",
+    "No Authentication",
+    "OTP",
+    "PIN"
+  ],
+  "channel": [
+    "ATM",
+    "Contactless",
+    "In-App",
+    "Online",
+    "POS"
+  ],
+  "device_type": [
+    "ATM Machine",
+    "Android Phone",
+    "Mac",
+    "POS Terminal",
+    "Smart Watch",
+    "Tablet",
+    "Windows PC",
+    "iPhone"
+  ]
+}
